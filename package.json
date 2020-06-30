@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
     "author": "Marcus Campebell",
-    "description": "A project that I'm using to learn the ins and outs of programming"
+    "description": "A project that I'm using to learn the ins and outs of programming",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
